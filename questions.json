@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "question": "Which year did the hurricane Isabel occur?",
+        "choices": [
+            "2003",
+            "2004",
+            "2001",
+            "2002"
+        ],
+        "answer": "2003"
+    },
+    {
+        "id": 2,
+        "question": "What was the category of the hurricane Isabel?",
+        "choices": [
+            "Category 2",
+            "Category 1",
+            "Category 5",
+            "Category 4",
+            "Category 3"
+        ],
+        "answer": "Category 4.0"
+    },
+    {
+        "id": 3,
+        "question": "What was the maximum wind speed of hurricane Isabel (in mph)?",
+        "choices": [
+            "125",
+            "135",
+            "155",
+            "145"
+        ],
+        "answer": "135"
+    },
+    {
+        "id": 4,
+        "question": "Which year did the hurricane Lorenzo occur?",
+        "choices": [
+            "2018",
+            "2020",
+            "2017",
+            "2019"
+        ],
+        "answer": "2019"
+    },
+    {
+        "id": 5,
+        "question": "What was the category of the hurricane Lorenzo?",
+        "choices": [
+            "Category 4",
+            "Category 1",
+            "Category 2",
+            "Category 5",
+            "Category 3"
+        ],
+        "answer": "Category 4.0"
+    },
+    {
+        "id": 6,
+        "question": "What was the maximum wind speed of hurricane Lorenzo (in mph)?",
+        "choices": [
+            "125",
+            "105",
+            "135",
+            "115"
+        ],
+        "answer": "115"
+    }
+]
