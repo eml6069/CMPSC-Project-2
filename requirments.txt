@@ -1,3 +1,1 @@
-random
-pandas
-pd
+pandas~=2.2.3
