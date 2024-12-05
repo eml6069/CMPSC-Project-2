@@ -141,6 +141,8 @@ def quiz_user_from_json(questions_file_path):
     print(f"\nQuiz Complete! You got {correct_answers} out of 5 correct.")
 
     # Clear the questions file after the quiz is complete
+    """""
     with open(questions_file_path, 'w') as file:
         json.dump([], file)  # Empty the file
     print(f"{questions_file_path} has been cleared.")
+    """""
